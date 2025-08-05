@@ -1,0 +1,13 @@
+../Core/Src/osd.c:40:6:osd_write	1
+../Core/Src/osd.c:49:6:osd_upload_custom_char	2
+../Core/Src/osd.c:62:6:osd_print_custom_char	1
+../Core/Src/osd.c:68:6:osd_all_char	4
+../Core/Src/osd.c:88:6:osd_wait_writeNVM	2
+../Core/Src/osd.c:94:6:osd_write_one_char_to_font	3
+../Core/Src/osd.c:108:6:osd_upload_font	2
+../Core/Src/osd.c:116:9:osd_read	1
+../Core/Src/osd.c:127:6:osd_init	2
+../Core/Src/osd.c:137:6:osd_enable	2
+../Core/Src/osd.c:147:6:osd_ext_video	2
+../Core/Src/osd.c:154:6:osd_clear_screen	1
+../Core/Src/osd.c:162:6:osd_print_text	2
